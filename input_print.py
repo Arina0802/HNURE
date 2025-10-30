@@ -1,0 +1,7 @@
+print("Hello")
+input("what is ur name?")
+print("fine")
+input("How old are u?")
+print("ok!")
+input("where are u from?")
+print("good")
